@@ -9,7 +9,8 @@
 			<default-locale>pt_BR</default-locale>
 		</locale-config>
 		
-		<message-bundle>com.algaworks.erp.Messages</message-bundle>
+		<message-bundle>com.jonathan.erp.Messages</message-bundle>
 	</application>
+	
 
 </faces-config>
